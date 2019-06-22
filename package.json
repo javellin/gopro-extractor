@@ -1,0 +1,22 @@
+{
+  "name": "metadata-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exiftool": "0.0.3",
+    "ffprobe": "^1.1.0",
+    "ffprobe-static": "^3.0.0",
+    "fs": "0.0.1-security",
+    "gopro-telemetry": "^0.6.9",
+    "gpmf-extract": "^0.1.8",
+    "klv": "0.0.7",
+    "moment": "^2.24.0",
+    "mongodb": "^3.2.7"
+  }
+}
