@@ -16,7 +16,7 @@
     "gopro-telemetry": "^0.6.9",
     "gpmf-extract": "^0.1.8",
     "klv": "0.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.2.7"
   }
 }
